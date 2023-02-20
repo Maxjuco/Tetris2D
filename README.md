@@ -1,7 +1,7 @@
 # Tetris2D
 
 <B>Description :</B><br>
-A clone of Tetris developed on Unity
+A clone of Tetris made with Unity in 2 days for the challenge
 <br><br><br>
 
 <B>Installation :</B>
